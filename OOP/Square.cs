@@ -2,7 +2,7 @@
 namespace OOP
 {
     // square class inheriting
-    class Square : Shape, interface1
+    class Square : Shape, IInterface1
     {
         private int side;
 
